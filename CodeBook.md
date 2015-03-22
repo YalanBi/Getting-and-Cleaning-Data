@@ -6,7 +6,7 @@ The script `run_analysis.R`performs the 5 steps to get a clean data as described
 * Next, columns with the mean and standard deviation measures are taken, and given the correct names from `features.txt`.
 * Name activities with the activity names and IDs from `activity_labels.txt`.
 * Label columns having vague names with correct names.
-* Finally, generate a new dataset with all the average measures for each subject and activity, which is `averages_data.txt`.
+* Finally, generate a new dataset with all the average measures for each subject and activity, which is `average_data.txt`.
 
 # Variables
 
